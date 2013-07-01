@@ -21,7 +21,6 @@ public class Main {
 	
 		lyt.Show();	lyt.Showss();
 		box.setSta(lyt.getSta());
-		box.Show(); box.Showss();
 		
 		System.out.println("lyt更改 hp= 100-------");
 		lyt.ChangeHp(100);
@@ -32,7 +31,6 @@ public class Main {
 		lyt.Show(); 
 		box.Show(); 
 		System.out.println("box更改 mp= 100-------");
-		box.ChangeMp(100);
 		lyt.Show();
 		box.Show();	
 

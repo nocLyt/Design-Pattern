@@ -1,8 +1,13 @@
-
+/**
+ * 前锋类
+ * @author lyt
+ *
+ */
 public class Forwards extends Player {
 	public Forwards(String name) {
 		super(name);
 		// TODO Auto-generated constructor stub
+			
 	}
 
 	@Override
